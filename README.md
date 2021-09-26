@@ -49,5 +49,9 @@ https://user-images.githubusercontent.com/74814641/134828491-5ff9cee0-eee1-415f-
 https://user-images.githubusercontent.com/74814641/134828536-885bbfc5-9336-4c42-a222-a37572e1601a.mp4
 
 ### 관리자 모드
+https://user-images.githubusercontent.com/74814641/134828773-1a6e20a6-bbb2-4df1-a1b9-48920209b3a4.mp4
+
+### 메뉴 주문 및 주방 페이지 전달
+
 
 
