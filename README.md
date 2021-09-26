@@ -32,5 +32,10 @@
 ### 메뉴판 페이지
 ![image](https://user-images.githubusercontent.com/74814641/134827321-f9c1d0fc-34fc-4431-9468-e25dce66859e.png)
 
+### 장바구니 페이지
+![image](https://user-images.githubusercontent.com/74814641/134827352-6ec0e236-ba89-4b22-a4a1-99cca7a11957.png)
+
+### 관리자 페이지
+
 
 
