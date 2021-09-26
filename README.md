@@ -26,5 +26,8 @@
 ### 모드 선택 페이지
 
 
+### 주방 페이지
+![image](https://user-images.githubusercontent.com/74814641/134827287-5c676ad5-c6c1-40f7-b0de-f8d14460ff6d.png)
+
 
 
