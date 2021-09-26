@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/74814641/134828356-b673c53a-8ea1-4cf1-
 https://user-images.githubusercontent.com/74814641/134828491-5ff9cee0-eee1-415f-9e29-28ac2c6cfc4c.mp4
 
 ### PW찾기
-
+https://user-images.githubusercontent.com/74814641/134828536-885bbfc5-9336-4c42-a222-a37572e1601a.mp4
 
 
 
