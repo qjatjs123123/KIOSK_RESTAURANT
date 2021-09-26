@@ -36,6 +36,7 @@
 ![image](https://user-images.githubusercontent.com/74814641/134827352-6ec0e236-ba89-4b22-a4a1-99cca7a11957.png)
 
 ### 관리자 페이지
+![image](https://user-images.githubusercontent.com/74814641/134827414-a71b8b75-526c-4534-9cb7-371f27c8c994.png)
 
 
 
