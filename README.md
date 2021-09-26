@@ -24,10 +24,13 @@
 ![image](https://user-images.githubusercontent.com/74814641/134827217-69e5f5e2-4ee0-46bc-85d1-95f76ae9ef4c.png)
 
 ### 모드 선택 페이지
-
+![image](https://user-images.githubusercontent.com/74814641/134827304-8b3f709e-dc18-4db2-9b4e-d740fd73b40f.png)
 
 ### 주방 페이지
 ![image](https://user-images.githubusercontent.com/74814641/134827287-5c676ad5-c6c1-40f7-b0de-f8d14460ff6d.png)
+
+### 메뉴판 페이지
+![image](https://user-images.githubusercontent.com/74814641/134827321-f9c1d0fc-34fc-4431-9468-e25dce66859e.png)
 
 
 
