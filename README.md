@@ -39,6 +39,12 @@
 ![image](https://user-images.githubusercontent.com/74814641/134827414-a71b8b75-526c-4534-9cb7-371f27c8c994.png)
 
 ## 기능 설명(영상)
+### 회원가입 
+https://user-images.githubusercontent.com/74814641/134828356-b673c53a-8ea1-4cf1-8735-ff275a76b8cd.mp4
+
+### ID찾기
+
+
 
 
 
