@@ -38,5 +38,7 @@
 ### 관리자 페이지
 ![image](https://user-images.githubusercontent.com/74814641/134827414-a71b8b75-526c-4534-9cb7-371f27c8c994.png)
 
+## 기능 설명(영상)
+
 
 
