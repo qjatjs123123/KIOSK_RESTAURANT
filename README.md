@@ -39,6 +39,14 @@
 ![image](https://user-images.githubusercontent.com/74814641/134827414-a71b8b75-526c-4534-9cb7-371f27c8c994.png)
 
 ## 기능 설명(영상)
+### 주요 기능
+1. 회원가입 
+2. ID찾기
+3. PW찾기
+4. 메뉴 주문
+5. 주문한 메뉴 주방 페이지에 출력
+6. 관리자 모드에서 메뉴 관리 및 매출 관리
+
 ### 회원가입 
 https://user-images.githubusercontent.com/74814641/134828356-b673c53a-8ea1-4cf1-8735-ff275a76b8cd.mp4
 
@@ -52,6 +60,9 @@ https://user-images.githubusercontent.com/74814641/134828536-885bbfc5-9336-4c42-
 https://user-images.githubusercontent.com/74814641/134828773-1a6e20a6-bbb2-4df1-a1b9-48920209b3a4.mp4
 
 ### 메뉴 주문 및 주방 페이지 전달
+https://user-images.githubusercontent.com/74814641/134828956-5746ab0f-b224-4086-b80f-aa0b8dfd3b46.mp4
+
+### 매출 관리
 
 
 
