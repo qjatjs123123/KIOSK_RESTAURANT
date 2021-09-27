@@ -63,6 +63,7 @@ https://user-images.githubusercontent.com/74814641/134828773-1a6e20a6-bbb2-4df1-
 https://user-images.githubusercontent.com/74814641/134828956-5746ab0f-b224-4086-b80f-aa0b8dfd3b46.mp4
 
 ### 매출 관리
+https://user-images.githubusercontent.com/74814641/134829217-caffc4cb-60d9-473b-9579-b50a6d23143c.mp4
 
 
 
