@@ -47,22 +47,22 @@
 5. 주문한 메뉴 주방 페이지에 출력
 6. 관리자 모드에서 메뉴 관리 및 매출 관리
 
-### 회원가입 
+### 회원가입 - ID 중복체크는 AJAX를 이용하여 구현, 비밀번호 형식체크 구현
 https://user-images.githubusercontent.com/74814641/134828356-b673c53a-8ea1-4cf1-8735-ff275a76b8cd.mp4
 
-### ID찾기
+### ID찾기 
 https://user-images.githubusercontent.com/74814641/134828491-5ff9cee0-eee1-415f-9e29-28ac2c6cfc4c.mp4
 
 ### PW찾기
 https://user-images.githubusercontent.com/74814641/134828536-885bbfc5-9336-4c42-a222-a37572e1601a.mp4
 
-### 관리자 모드
+### 관리자 모드 - IMGUR API를 통해 이미지를 DB에 저장
 https://user-images.githubusercontent.com/74814641/134828773-1a6e20a6-bbb2-4df1-a1b9-48920209b3a4.mp4
 
-### 메뉴 주문 및 주방 페이지 전달
+### 메뉴 주문 및 주방 페이지 전달 - 웹 소캣을 통해 메뉴판 페이지와 주방 페이지 송수신
 https://user-images.githubusercontent.com/74814641/134828956-5746ab0f-b224-4086-b80f-aa0b8dfd3b46.mp4
 
-### 매출 관리
+### 매출 관리 - 년/월/일 별로 매출 
 https://user-images.githubusercontent.com/74814641/134829217-caffc4cb-60d9-473b-9579-b50a6d23143c.mp4
 
 
